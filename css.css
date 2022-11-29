@@ -1,0 +1,21 @@
+h1{
+    color: cyan;
+    font-family: cursive;
+    font-size: 40px;
+    line-height: 80%;
+    text-align: center;
+}
+p{
+    color: deepskyblue;
+    font-family: cursive;
+    font-size: 20px;
+    line-height: 80%;
+    text-align: center;
+}
+a{
+    color: deepskyblue;
+    font-family: cursive;
+    font-size: 20px;
+    line-height: 80%;
+    text-align: center;
+}
